@@ -1,37 +1,37 @@
 {	
-    name: "tailieuweb/mypackage",	
-    description: "mypackage",	
-    keywords: [	
-    mypackage	
+    "name": "tailieuweb/mypackage",	
+    "description": "mypackage",	
+    "keywords": [	
+    "mypackage"	
 ],	
-authors: [	
+"authors": [	
 {	
-name: "foostart",	
-email: "foostart.com@gmail.com"	
+"name": "foostart",	
+"email": "foostart.com@gmail.com"	
 }	
 ],	
-license: "MIT",	
-require: {	
+"license": "MIT",	
+"require": {	
 },	
-require-dev: {	
+"require-dev": {	
 },	
-autoload: {	
-classmap: [	
-database	
+"autoload": {	
+"classmap": [	
+"database"	
 ],	
-psr-4: {	
-Tailieuweb\\Mypackage\\: "src/"	
+"psr-4": {	
+"Tailieuweb\\Mypackage\\": "src/"	
 }	
 },	
-autoload-dev: {	
-classmap: [	
+"autoload-dev": {	
+"classmap": [	
 	
 ]	
 },	
-scripts: {	
+"scripts": {	
 },	
-minimum-stability: "dev",	
-config: {	
-preferred-install: "dist"	
+"minimum-stability": "dev",	
+"config": {	
+"preferred-install": "dist"	
 }	
 }	
