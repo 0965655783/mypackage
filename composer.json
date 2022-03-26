@@ -20,7 +20,7 @@
 "database"	
 ],	
 "psr-4": {	
-"Tailieuweb\\Mypackage\\": "src/"	
+"0965655783\\Mypackage\\": "src/"	
 }	
 },	
 "autoload-dev": {	
